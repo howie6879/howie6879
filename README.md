@@ -2,7 +2,9 @@
 
 > 努力就好
 
-I'm a Python engineer, I love open source, I want to communicate with like-minded people and make progress together.
+I'm a Python engineer, I love open source❤️
+
+I want to communicate with like-minded people and make progress together.
 
 
 ### My Social Media 💬
