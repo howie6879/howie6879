@@ -13,8 +13,8 @@ I want to communicate with like-minded people and make progress together.❤️
 
 ### Little Book 📚
 
-- [Kubernetes 学习之路](https://www.howie6879.cn/k8s/)
-- [NNDL](https://www.howie6879.cn/sanic_book/)
-- [Sanic](https://www.howie6879.cn/sanic_book/)
+- [Kubernetes 学习之路](https://www.howie6879.cn/k8s/): k8s 学习之路
+- [NNDL Note](https://www.howie6879.cn/nndl_note/)：深度学习笔记
+- [Sanic](https://www.howie6879.cn/sanic_book/)：一份sanic使用教程
 
 ![howie's github stats](https://github-readme-stats.vercel.app/api?username=howie6879&count_private=true&show_icons=true)
