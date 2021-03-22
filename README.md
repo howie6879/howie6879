@@ -13,7 +13,7 @@ I want to communicate with like-minded people and make progress together.❤️
 
 ### Little Book 📚
 
-| ✍️                                                            | 🍻                                                        |
+| ✍️                                                            | 👨‍💻                                                      |
 | :----------------------------------------------------------- | :------------------------------------------------------- |
 | [Kubernetes Note](https://www.howie6879.cn/k8s/)：Kubernetes 学习之路 | [Code](https://github.com/howie6879/k8s_note)            |
 | [ML Note](https://www.howie6879.cn/ml_book/)：机器学习之路   | [Code](https://github.com/howie6879/ml_note)             |
