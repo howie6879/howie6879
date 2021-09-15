@@ -2,7 +2,7 @@
 
 > 奇文共欣赏，疑义相与析
 
-I want to communicate with like-minded people and make progress together.❤️
+Carve out a bright future by coding.❤️
 
 
 ### Social Media 💬
