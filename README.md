@@ -1,17 +1,17 @@
-## Hi there 👋
+## 👋 Hi there
 
 > 奇文共欣赏，疑义相与析
 
 Carve out a bright future by coding.❤️
 
 
-### Social Media 💬
+### 💬 Social Media
 
 - Blog: [https://www.howie6879.cn/](https://www.howie6879.cn/)
 - WeChat：[老胡的储物柜](https://gitee.com/howie6879/oss/raw/master/uPic/qrcode_for_gh_3f02ace79dfb_258.jpg)
 - Email: xiaozizayang@gmail.com
 
-### Little Book 📚
+### 📚 Little Book
 
 | ✍️                                                            | 👨‍💻                                                      |
 | :----------------------------------------------------------- | :------------------------------------------------------- |
