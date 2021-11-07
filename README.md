@@ -10,6 +10,7 @@ Carve out a bright future by coding.❤️
 
 How to reach me:
 - Blog: [https://www.howie6879.cn/](https://www.howie6879.cn/)
+- [Weekly](https://weekly.howie6879.cn/): 记录我本周看到的有价值的信息
 - WeChat：[老胡的储物柜](https://gitee.com/howie6879/oss/raw/master/uPic/qrcode_for_gh_3f02ace79dfb_258.jpg)
 - Email: xiaozizayang@gmail.com
 
