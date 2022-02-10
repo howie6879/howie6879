@@ -12,6 +12,7 @@ How to reach me:
 - Blog: [https://www.howie6879.cn/](https://www.howie6879.cn/)
 - WeChat：[老胡的储物柜](https://gitee.com/howie6879/oss/raw/master/uPic/qrcode_for_gh_3f02ace79dfb_258.jpg)
 - Email: xiaozizayang@gmail.com
+- [订阅我的动态](https://howie6879.zhubai.love/)
 
 
 ### 📚 Little Book
