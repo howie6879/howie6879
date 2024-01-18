@@ -11,9 +11,8 @@ Carve out a bright future by coding.❤️
 How to reach me:
 - Blog: [https://www.howie6879.cn/](https://www.howie6879.com/)
 - 周刊: [weekly.howie6879.com](https://weekly.howie6879.com/)
-- WeChat：[老胡的储物柜](https://camo.githubusercontent.com/f9bfefa06d2be4f9bdbbd1e284f1abe666344d9cdf8c1c5d686f4a0eae303824/68747470733a2f2f696d672e747572696e6761726b2e636f6d2f7765636861745f686f7769652e706e67)
+- WeChat：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
 - Email: xiaozizayang@gmail.com
-- [订阅我的动态](https://howie6879.zhubai.love/)
 
 
 ### 📚 Little Book
