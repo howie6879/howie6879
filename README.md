@@ -19,7 +19,7 @@ How to reach me:
 
 | ✍️                                                            | 👨‍💻                                                      |
 | :----------------------------------------------------------- | :------------------------------------------------------- |
-| [Weekly](https://weekly.howie6879.cn/)：记录我本周看到的有价值的信息 | [Code](https://github.com/howie6879/weekly/) |
+| [Weekly](https://weekly.howie6879.com/)：记录我本周看到的有价值的信息 | [Code](https://github.com/howie6879/weekly/) |
 | [Kubernetes Note](https://www.howie6879.cn/k8s/)：Kubernetes 学习之路 | [Code](https://github.com/howie6879/k8s_note)            |
 | [ML Note](https://www.howie6879.cn/ml_book/)：机器学习之路   | [Code](https://github.com/howie6879/ml_note)             |
 | [Sanic-For-Pythoneer](https://www.howie6879.cn/sanic_book/)：一份sanic使用教程 | [Code](https://github.com/howie6879/Sanic-For-Pythoneer) |
